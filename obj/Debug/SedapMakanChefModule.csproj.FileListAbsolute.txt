@@ -1,0 +1,10 @@
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\bin\Debug\SedapMakanChefModule.exe.config
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\bin\Debug\SedapMakanChefModule.exe
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\bin\Debug\SedapMakanChefModule.pdb
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.csproj.AssemblyReference.cache
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.Form1.resources
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.Properties.Resources.resources
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.csproj.GenerateResource.cache
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.csproj.CoreCompileInputs.cache
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.exe
+D:\Visual work\SedapMakanChefModule\SedapMakanChefModule\obj\Debug\SedapMakanChefModule.pdb
